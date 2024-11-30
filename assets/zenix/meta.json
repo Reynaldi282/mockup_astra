@@ -1,0 +1,133 @@
+{
+    "body_colors": {
+        "colors": [
+            {
+                "name": "Pearl White",
+                "value": "#f6f6f6"
+            },
+            {
+                "name": "Silver Metallic",
+                "value": "#bfc1c1"
+            },
+            {
+                "name": "Grey Metallic",
+                "value": "#515151"
+            },
+            {
+                "name": "Attitude Black",
+                "value": "#262626"
+            }
+        ],
+        "target": "Attitude_Black_pbr_shader53",
+        "default": 0
+    },
+    "mirror_colors": {
+        "colors": [
+            {
+                "name": "Black",
+                "value": "#121212"
+            }
+        ],
+        "target": "Mt_MirrorCover",
+        "default": 0
+    },
+    "wheel_designs": {
+        "colors": [
+            {
+                "name": "Type A",
+                "value": "#C0C0C0",
+                "thumb": "Render_Tyre_0A"
+            },
+            {
+                "name": "Type B",
+                "value": "#4B4B4B",
+                "thumb": "Render_Tyre_0B"
+            },            
+            {
+                "name": "Type C",
+                "value": "#D4AF37",
+                "thumb": "Render_Tyre_0C"
+            }
+        ],
+        
+        "target": "Attitude_Black_pbr_shader59",
+        "default": 0
+    },
+    "wheel_colors": {
+        "colors": [
+            {
+                "name": "Black",
+                "value": "#000000"
+            },
+            {
+                "name": "Grey",
+                "value": "#4C5457"
+            },
+            {
+                "name": "Metalic",
+                "value": "#dddddd"
+            }
+        ],
+        "target": "Attitude_Black_pbr_shader59",
+        "default": 0
+    },
+    "caliper_colors": {
+        "colors": [
+            {
+                "name": "Red",
+                "value": "#990000"
+            },
+            {
+                "name": "Yellow",
+                "value": "#E9A435"
+            },
+            {
+                "name": "Black",
+                "value": "#000000"
+            },
+            {
+                "name": "White",
+                "value": "#F1F7F7"
+            }
+        ],
+        "target": "Mt_BrakeCaliper",
+        "default": 0
+    },
+    "ambience": {
+        "colors": [
+            {
+                "name": "Default",
+                "value": "default",
+                "preview": "white_thumb.webp",
+                "color": "#f2f2f2"
+            },
+            {
+                "name": "Garage",
+                "value": "garage",
+                "preview": "garage_thumb.webp"
+            },
+            {
+                "name": "City",
+                "value": "city", 
+                "preview": "city_thumb.webp"
+            },
+            {
+                "name": "Outdoor",
+                "value": "scene_1",
+                "preview": "outdoor_thumb.webp"
+            }
+        ],
+        "target": "environment",
+        "default": 0
+    },
+    "interior": {        
+        "colors": [],
+        "target": "",
+        "default": 0
+    },
+    "accessories": {
+        "colors": [],
+        "target": "",
+        "default": 0
+    }
+}
