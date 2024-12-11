@@ -3256,61 +3256,61 @@
   ],
   "images": [
     {
-      "uri": "textures/Material_baseColor.png"
+      "uri": "textures/Material_baseColor.webp"
     },
     {
-      "uri": "textures/Material_metallicRoughness.png"
+      "uri": "textures/Material_metallicRoughness.webp"
     },
     {
-      "uri": "textures/Material_normal.png"
+      "uri": "textures/Material_normal.webp"
     },
     {
-      "uri": "textures/Door_baseColor.png"
+      "uri": "textures/Door_baseColor.webp"
     },
     {
-      "uri": "textures/Door_metallicRoughness.png"
+      "uri": "textures/Door_metallicRoughness.webp"
     },
     {
-      "uri": "textures/Door_normal.png"
+      "uri": "textures/Door_normal.webp"
     },
     {
-      "uri": "textures/Material.003_baseColor.png"
+      "uri": "textures/Material.003_baseColor.webp"
     },
     {
-      "uri": "textures/Material.003_metallicRoughness.png"
+      "uri": "textures/Material.003_metallicRoughness.webp"
     },
     {
-      "uri": "textures/Material.003_normal.png"
+      "uri": "textures/Material.003_normal.webp"
     },
     {
-      "uri": "textures/Barrel_01_baseColor.png"
+      "uri": "textures/Barrel_01_baseColor.webp"
     },
     {
-      "uri": "textures/Barrel_01_metallicRoughness.png"
+      "uri": "textures/Barrel_01_metallicRoughness.webp"
     },
     {
-      "uri": "textures/Barrel_01_normal.png"
+      "uri": "textures/Barrel_01_normal.webp"
     },
     {
-      "uri": "textures/Material.008_baseColor.png"
+      "uri": "textures/Material.008_baseColor.webp"
     },
     {
-      "uri": "textures/Material.005_baseColor.png"
+      "uri": "textures/Material.005_baseColor.webp"
     },
     {
-      "uri": "textures/Material.005_metallicRoughness.png"
+      "uri": "textures/Material.005_metallicRoughness.webp"
     },
     {
-      "uri": "textures/Material.005_normal.png"
+      "uri": "textures/Material.005_normal.webp"
     },
     {
-      "uri": "textures/Black_Plastic_baseColor.png"
+      "uri": "textures/Black_Plastic_baseColor.webp"
     },
     {
-      "uri": "textures/Final1_baseColor.png"
+      "uri": "textures/Final1_baseColor.webp"
     },
     {
-      "uri": "textures/Final1_metallicRoughness.png"
+      "uri": "textures/Final1_metallicRoughness.webp"
     }
   ],
   "materials": [
