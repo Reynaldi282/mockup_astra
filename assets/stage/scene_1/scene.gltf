@@ -4819,93 +4819,93 @@
   "images": [
     {
       "mimeType": "image/webp",
-      "name": "adskMatjalananbasecolortexture.webp",
-      "uri": "textures/adskMatjalananbasecolortexture.webp"
+      "name": "adskMatjalananbasecolortexture.png",
+      "uri": "textures/adskMatjalananbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "M_2.webp",
-      "uri": "textures/M_2.webp"
+      "name": "M_2.png",
+      "uri": "textures/M_2.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "fasadesbasecolortexture.webp",
-      "uri": "textures/fasadesbasecolortexture.webp"
+      "name": "fasadesbasecolortexture.png",
+      "uri": "textures/fasadesbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "fasades2basecolortexture.webp",
-      "uri": "textures/fasades2basecolortexture.webp"
+      "name": "fasades2basecolortexture.png",
+      "uri": "textures/fasades2basecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "detailsbasecolortexture.webp",
-      "uri": "textures/detailsbasecolortexture.webp"
+      "name": "detailsbasecolortexture.png",
+      "uri": "textures/detailsbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_Sidewalkbasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_Sidewalkbasecolortexture.webp"
+      "name": "KB3D_CTS_Sidewalkbasecolortexture.png",
+      "uri": "textures/KB3D_CTS_Sidewalkbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_SteelRoughBlackTbasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_SteelRoughBlackTbasecolortexture.webp"
+      "name": "KB3D_CTS_SteelRoughBlackTbasecolortexture.png",
+      "uri": "textures/KB3D_CTS_SteelRoughBlackTbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "conblockbasecolortexture.webp",
-      "uri": "textures/conblockbasecolortexture.webp"
+      "name": "conblockbasecolortexture.png",
+      "uri": "textures/conblockbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "conblockmetallicroughnesstex.webp",
-      "uri": "textures/conblockmetallicroughnesstex.webp"
+      "name": "conblockmetallicroughnesstex.png",
+      "uri": "textures/conblockmetallicroughnesstex.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "bg_okebasecolortexture.webp",
-      "uri": "textures/bg_okebasecolortexture.webp"
+      "name": "bg_okebasecolortexture.png",
+      "uri": "textures/bg_okebasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_ConcreteDecorAbasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_ConcreteDecorAbasecolortexture.webp"
+      "name": "KB3D_CTS_ConcreteDecorAbasecolortexture.png",
+      "uri": "textures/KB3D_CTS_ConcreteDecorAbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_GreenHedgebasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_GreenHedgebasecolortexture.webp"
+      "name": "KB3D_CTS_GreenHedgebasecolortexture.png",
+      "uri": "textures/KB3D_CTS_GreenHedgebasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_LeafAtlasbasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_LeafAtlasbasecolortexture.webp"
+      "name": "KB3D_CTS_LeafAtlasbasecolortexture.png",
+      "uri": "textures/KB3D_CTS_LeafAtlasbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_TreeWalnutBarkbasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_TreeWalnutBarkbasecolortexture.webp"
+      "name": "KB3D_CTS_TreeWalnutBarkbasecolortexture.png",
+      "uri": "textures/KB3D_CTS_TreeWalnutBarkbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "adskMatKB3D_CTS_SteelRoughBlackTbasecolortexture.webp",
-      "uri": "textures/adskMatKB3D_CTS_SteelRoughBlackTbasecolortexture.webp"
+      "name": "adskMatKB3D_CTS_SteelRoughBlackTbasecolortexture.png",
+      "uri": "textures/adskMatKB3D_CTS_SteelRoughBlackTbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_Lampsbasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_Lampsbasecolortexture.webp"
+      "name": "KB3D_CTS_Lampsbasecolortexture.png",
+      "uri": "textures/KB3D_CTS_Lampsbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "KB3D_CTS_MetalPaintGrayAbasecolortexture.webp",
-      "uri": "textures/KB3D_CTS_MetalPaintGrayAbasecolortexture.webp"
+      "name": "KB3D_CTS_MetalPaintGrayAbasecolortexture.png",
+      "uri": "textures/KB3D_CTS_MetalPaintGrayAbasecolortexture.png"
     },
     {
       "mimeType": "image/webp",
-      "name": "adskMatrumputbasecolortexture.webp",
-      "uri": "textures/adskMatrumputbasecolortexture.webp"
+      "name": "adskMatrumputbasecolortexture.png",
+      "uri": "textures/adskMatrumputbasecolortexture.png"
     }
   ],
   "materials": [

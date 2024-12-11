@@ -1,0 +1,43 @@
+{
+  "body_colors": {
+    "target": "Mt_Body",
+    "default": 0,
+    "colors": [
+      {
+        "name": "Super White II",
+        "value": "#FFFFFF",
+        "thumb": "thumbnails/colors/white"
+      }
+      // ... other colors
+    ]
+  },
+  "wheel_designs": {
+    "target": "Mt_Wheel",
+    "default": 0,
+    "colors": [
+      {
+        "name": "Design A",
+        "value": "design_a",
+        "thumb": "thumbnails/wheels/design_a"
+      }
+      // ... other designs
+    ]
+  },
+  "ambience": {
+    "default": 0,
+    "colors": [
+      {
+        "name": "Garage",
+        "value": "garage",
+        "preview": "previews/environments/garage.webp"
+      },
+      {
+        "name": "City",
+        "value": "city",
+        "preview": "previews/environments/city.webp"
+      }
+      // ... other environments
+    ]
+  }
+  // ... other configurations
+} 

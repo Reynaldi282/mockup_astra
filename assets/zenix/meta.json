@@ -35,17 +35,17 @@
         "colors": [
             {
                 "name": "Type A",
-                "value": "#C0C0C0",
+                "value": "#C2C2C2",
                 "thumb": "Render_Tyre_0A"
             },
             {
                 "name": "Type B",
-                "value": "#4B4B4B",
+                "value": "#4B4B4E",
                 "thumb": "Render_Tyre_0B"
             },            
             {
                 "name": "Type C",
-                "value": "#D4AF37",
+                "value": "#B4A389",
                 "thumb": "Render_Tyre_0C"
             }
         ],
