@@ -98,23 +98,35 @@
             {
                 "name": "Default",
                 "value": "default",
-                "preview": "white_thumb.webp",
+                "preview": "thumbnails/default_thumb.webp",
                 "color": "#f2f2f2"
             },
             {
                 "name": "Garage",
                 "value": "garage",
-                "preview": "garage_thumb.webp"
+                "preview": "thumbnails/garage_thumb.webp",
+                "color": "#8b8b8b",
+                "exr": "garage_1k.exr",
+                "cubemap": "garage/",
+                "planar": "garage_planar.glb"
             },
             {
-                "name": "City",
-                "value": "city", 
-                "preview": "city_thumb.webp"
+                "name": "City Day",
+                "value": "city_day",
+                "preview": "thumbnails/city_day_thumb.webp",
+                "color": "#87ceeb",
+                "exr": "city_day_1k.exr",
+                "cubemap": "city_day/",
+                "planar": "city_day_planar.glb"
             },
             {
-                "name": "Outdoor",
-                "value": "scene_1",
-                "preview": "outdoor_thumb.webp"
+                "name": "City Night",
+                "value": "city_night",
+                "preview": "thumbnails/city_night_thumb.webp",
+                "color": "#191970",
+                "exr": "city_night_1k.exr",
+                "cubemap": "city_night/",
+                "planar": "city_night_planar.glb"
             }
         ],
         "target": "environment",
